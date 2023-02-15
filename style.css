@@ -1,0 +1,13 @@
+/* body{
+    margin: 0px;
+} */
+.logo{
+    background-color:red;
+    display: inline-block;
+}
+header nav{
+    background-color: aqua;
+    display: inline-block;
+    
+}
+
